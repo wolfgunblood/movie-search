@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+<h1 align="center">📑 Filmipre Movie Search Application</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  Movie Search App built with React and MUI 
+</p>
 
-## Available Scripts
+## Short Description 📋
+The Movie Search App, built using React and Material-UI (MUI), is a web application that enables users to search for movies and explore detailed information about them. With a sleek and responsive interface, the app allows users to easily search for movies by title, genre, or actor. It leverages the power of React to provide real-time search results and interactive user experiences. The integration of Material-UI ensures a modern and visually appealing design, with components that follow Google's Material Design guidelines. Discover and explore your favorite movies with the Movie Search App, where React and MUI come together to enhance your movie search and browsing experience.
 
-In the project directory, you can run:
+## Demo
+🖥 [Live Demo](https://movie-search-app-react-mui.netlify.app/)
 
-### `npm start`
+## Showcase 🎬
+You can see my application below.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features ✨
+- Responsiveness for mobile, tablet and desktop
+- Saves Trading Journal as PDF and downloads it
+- Real-time adoption of changes
+- Clean UI/UX
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used 💻
+- React
+- MUI
+- Es Lint
+- NPM
+- Netlify
 
-### `npm test`
+## What I learned 📚
+- React Fundamentals: Building the app in React allowed me to deepen my understanding of React's core concepts, such as components, state management,and lifecycle methods. I became more proficient in creating reusable and modular UI components.
+- API Integration: Integrating movie data from an external API taught me how to work with asynchronous operations and handle data fetching in React. I learned how to make API requests, process and display the received data, and handle errors or loading states.
+- API Integration: Integrating movie data from an external API taught me how to work with asynchronous operations and handle data fetching in React. I learned how to make API requests, process and display the received data, and handle errors or loading states.
+- UI Design with Material-UI: Utilizing the Material-UI library enabled me to create a visually appealing and user-friendly interface. I gained experience in leveraging pre-built UI components, customizing styles, and maintaining consistency throughout the app's design.
+- Error Handling and Validation: Handling potential errors, such as failed API requests or invalid user input, improved my error-handling skills. I learned to implement error boundaries, display meaningful error messages, and validate user input to provide a smooth and error-free user experience.
+- Project Organization and Structure: As the app grew in complexity, I focused on maintaining a clean and well-organized project structure. I became proficient in dividing the app into logical components, managing state effectively, and separating concerns to enhance code readability and maintainability.
+- Debugging and Troubleshooting: While working on the Movie Search App, I encountered various issues that required debugging and troubleshooting. This experience helped me develop problem-solving skills and improve my ability to identify and resolve bugs or unexpected behavior in the application.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Motivation
+The motivation behind building the Movie Search App using React and Material-UI (MUI) stems from the desire to create a user-friendly and visually appealing platform for movie enthusiasts to explore and discover their favorite films.I built the Movie Search App using React and Material-UI to provide movie enthusiasts with a user-friendly and visually appealing platform. With React's component-based architecture, I created a seamless and interactive experience for users to search and explore movies. By integrating Material-UI, I ensured a modern and consistent design. My motivation was to create an application that combines the power of React and Material-UI, enabling users to easily discover movie details and make informed decisions about what to watch, while inspiring a love for cinema.
