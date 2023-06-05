@@ -27,13 +27,13 @@ You can see my application below.
 - Netlify
 
 ## What I learned 📚
-- React Fundamentals: Building the app in React allowed me to deepen my understanding of React's core concepts, such as components, state management,and lifecycle methods. I became more proficient in creating reusable and modular UI components.
-- API Integration: Integrating movie data from an external API taught me how to work with asynchronous operations and handle data fetching in React. I learned how to make API requests, process and display the received data, and handle errors or loading states.
-- API Integration: Integrating movie data from an external API taught me how to work with asynchronous operations and handle data fetching in React. I learned how to make API requests, process and display the received data, and handle errors or loading states.
-- UI Design with Material-UI: Utilizing the Material-UI library enabled me to create a visually appealing and user-friendly interface. I gained experience in leveraging pre-built UI components, customizing styles, and maintaining consistency throughout the app's design.
-- Error Handling and Validation: Handling potential errors, such as failed API requests or invalid user input, improved my error-handling skills. I learned to implement error boundaries, display meaningful error messages, and validate user input to provide a smooth and error-free user experience.
-- Project Organization and Structure: As the app grew in complexity, I focused on maintaining a clean and well-organized project structure. I became proficient in dividing the app into logical components, managing state effectively, and separating concerns to enhance code readability and maintainability.
-- Debugging and Troubleshooting: While working on the Movie Search App, I encountered various issues that required debugging and troubleshooting. This experience helped me develop problem-solving skills and improve my ability to identify and resolve bugs or unexpected behavior in the application.
+- React Fundamentals
+- API Integration
+- API Integration
+- UI Design with Material-UI
+- Error Handling and Validation
+- Project Organization and Structure
+- Debugging and Troubleshooting
 
 ## Motivation
 The motivation behind building the Movie Search App using React and Material-UI (MUI) stems from the desire to create a user-friendly and visually appealing platform for movie enthusiasts to explore and discover their favorite films.I built the Movie Search App using React and Material-UI to provide movie enthusiasts with a user-friendly and visually appealing platform. With React's component-based architecture, I created a seamless and interactive experience for users to search and explore movies. By integrating Material-UI, I ensured a modern and consistent design. My motivation was to create an application that combines the power of React and Material-UI, enabling users to easily discover movie details and make informed decisions about what to watch, while inspiring a love for cinema.
