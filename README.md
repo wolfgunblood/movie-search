@@ -13,6 +13,8 @@ The Movie Search App, built using React and Material-UI (MUI), is a web applicat
 ## Showcase 🎬
 You can see my application below.
 
+![Screenshot](./Screenshot.png)
+
 ## Features ✨
 - Responsiveness for mobile, tablet and desktop
 - Saves Trading Journal as PDF and downloads it
